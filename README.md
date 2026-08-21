@@ -1,12 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&width=435&lines=Thank+you+for+browsing)](https://git.io/typing-svg)
+# 👋 Hi，我是李子凡（xiaou61）
 
-<a href="http://halo.xiaou61.xyz" target="_blank"><img alt="个人博客" src="https://img.shields.io/badge/个人-博客-blue?style=flat-square"/></a>
+**AI 应用开发工程师**，专注于 AI 应用开发、Agent / MCP 生态与 Web 全栈。
 
-#### 最常用语言
-![](https://github-stats.ubrong.com/api?username=xiaou61&show_icons=true&theme=tokyonight)
-#### 最常用语言
-![](https://github-stats.ubrong.com/api/top-langs/?username=xiaou61&layout=compact&theme=tokyonight)
-#### 社交统计
-![](https://stats.justsong.cn/api/github?username=xiaou61&theme=dark&lang=zh-CN)<br>
-#### 访问次数
-![](https://profile-counter.glitch.me/{xiaou61}/count.svg)
+📮 QQ 邮箱：`3153566913@qq.com`
+
+## 主要项目
+
+| 项目 | 简介 |
+| --- | --- |
+| [Code-Nest](https://github.com/xiaou61/Code-Nest) | Spring Boot 程序员一体化社区 |
+| [2026-bs](https://github.com/xiaou61/2026-bs) | 2026 计算机毕业设计合集（SpringBoot / Vue / 小程序 / Python） |
+| [thesis-skills](https://github.com/xiaou61/thesis-skills) | 论文写作实战经验 Skills（标准化流程、降 AIGC） |
+| [project-lifecycle](https://github.com/xiaou61/project-lifecycle) | 中文软件项目生命周期 Skill（需求 → 设计 → 实现 → 验证） |
+| [project-all-you-know](https://github.com/xiaou61/project-all-you-know) | AI 驱动的 GitHub 代码理解平台 |
+| [ai-everything-push](https://github.com/xiaou61/ai-everything-push) | AI 每日数据抓取与推送 |
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaou61&show_icons=true&theme=default)

@@ -14,20 +14,3 @@
 | [project-lifecycle](https://github.com/xiaou61/project-lifecycle) | 中文软件项目生命周期 Skill（需求 → 设计 → 实现 → 验证） |
 | [project-all-you-know](https://github.com/xiaou61/project-all-you-know) | AI 驱动的 GitHub 代码理解平台 |
 | [ai-everything-push](https://github.com/xiaou61/ai-everything-push) | AI 每日数据抓取与推送 |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiaou61&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaou61&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=xiaou61&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xiaou61&theme=tokyonight&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xiaou61&theme=tokyonight&hide_border=true" alt="Activity Graph" />
-</p>
